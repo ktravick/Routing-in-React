@@ -5,7 +5,7 @@ class Photos extends Component {
        return(
            <div className='Photos'>
                Photos
-               
+              
            </div>
        )
    } 
